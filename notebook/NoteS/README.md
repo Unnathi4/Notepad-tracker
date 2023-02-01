@@ -1,4 +1,3 @@
-# NoteS
-local notepad with Flask
+# Notepad Tracker
 
-python(3) __main__.py
+Notepad tracker using python and flask
